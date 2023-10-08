@@ -28,7 +28,7 @@ const App = (): React.ReactElement => {
   return (
     <div className="App">
       <Admin
-        title={"UI/UX Design-1"}
+        title={"UI/UX Design"}
         dataProvider={dataProvider}
         authProvider={jwtAuthProvider}
         theme={theme}
