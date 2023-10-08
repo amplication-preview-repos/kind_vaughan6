@@ -1,5 +1,5 @@
 {
-  "name": "@ui-ux-design-1/admin",
+  "name": "@ui-ux-design/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
